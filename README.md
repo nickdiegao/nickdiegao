@@ -29,6 +29,6 @@
 
 <img loading="lazy" src="https://media1.tenor.com/m/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif" width="500px" height="300px">
 
-![nickdiegao's github activity graph](https://raw.githubusercontent.com/nickdiegao/nickdiegao/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nickdiegao/nickdiegao/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickdiegao"></img>
