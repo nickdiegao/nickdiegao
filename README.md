@@ -27,7 +27,7 @@
 
 ##
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nickdiegao"></img>
+
 <img loading="lazy" src="https://media1.tenor.com/m/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif" width="500px" height="300px">
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nickdiegao"></img>
