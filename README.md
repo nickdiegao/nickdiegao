@@ -24,25 +24,11 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickdiegao&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nickdiegao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-  
+
 ##
-  
-![](https://github.com/nickdiegao/nickdiegao/blob/output/github-contribution-grid-snake.svg)
-  
-##
+
 <img loading="lazy" src="https://media1.tenor.com/m/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif" width="500px" height="300px">
 
-<!--
-**nickdiegao/nickdiegao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![nickdiegao's github activity graph](https://raw.githubusercontent.com/nickdiegao/nickdiegao/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nickdiegao"></img>
