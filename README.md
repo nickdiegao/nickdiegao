@@ -26,6 +26,9 @@
 ##
 <img loading="lazy" src="https://media1.tenor.com/m/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif" width="500px" height="300px">
 
+##
+![Snake animation](https://github.com/nickdiegao/nickdiegao/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **nickdiegao/nickdiegao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
