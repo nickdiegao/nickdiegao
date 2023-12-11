@@ -31,7 +31,3 @@
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickdiegao"></img>
-
-##
-
-![snake gif](https://github.com/nickdiegao/nickdiegao/blob/output/github-contribution-grid-snake.gif)
