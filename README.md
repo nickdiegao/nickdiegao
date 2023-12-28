@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-My name is Nicholas Diego and my nickname is "nick"! I'm from <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="23px" height="23x" />
+My name is Nicholas Diego and I'm currently studying analysis and systems development in Uninassau - PE, and I have a technical course in information technology from Senai - PE
 
 I'm currently learning
 
