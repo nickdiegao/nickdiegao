@@ -20,8 +20,6 @@ I'm currently learning
 </div>
   
 ##
-  
-👯 I’m looking to collaborate on front-end or back-end
 
 Contacts:
 <div align="center">
